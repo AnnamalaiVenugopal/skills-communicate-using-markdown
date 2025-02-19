@@ -23,3 +23,8 @@ var myVar = "Hello, world!";
 ``` java
 String myVar = "Hello, world!";
 ```
+
+## Adding the task list
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
